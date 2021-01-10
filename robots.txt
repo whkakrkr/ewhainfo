@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://ewhainfo.netlify.app/sitemap.xml
