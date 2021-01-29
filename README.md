@@ -2,8 +2,6 @@
 
 ## 이화여대 입시링크   
 
-#### 이화여자대학교 입시를 위한 사이트로 연결해드립니다. (이화여대 입학처, 이화그린 입시카페,  자료모음 블로그)
-
 이화여자대학교의 입시와 관련된 사이트의 링크들을 연결해주는 사이트입니다.
 
 - 이화여자대학교 공식 입학처
@@ -17,14 +15,16 @@ Code referenced : [https://codepen.io/nightcl4w/pen/dEjreJ](https://codepen.io/n
 
 
 --------
-### 웹페이지 최적화 (Search Engine Optimization, SEO)
+## 웹페이지 최적화 (Search Engine Optimization, SEO)
 
 1. [네이버 웹마스터 도구](https://searchadvisor.naver.com/console/board)   
+<br/>
 
 2. 사이트 인증 : 메타태그 index.html <head>에 넣기   
 ```
 '<meta name="naver-site-verification" content="0f0f336b28a202e787105c4d2f350b9afb7682c9" />'
 ```   
+<br/>
   
 3. 크롤러 (*robot.txt*)
 ```
@@ -32,10 +32,12 @@ Code referenced : [https://codepen.io/nightcl4w/pen/dEjreJ](https://codepen.io/n
 Allow:/
 Sitemap: https://ewhainfo.netlify.app/sitemap.xml
 ```   
+<br/>
 
 4. 사이트맵 (*sitemap.xml*)   
 [https://www.xml-sitemaps.com/](https://www.xml-sitemaps.com/) 에서 사이트맵 생성   
 Sitemap: https://ewhainfo.netlify.app/sitemap.xml    
+<br/>
 
 5. Open Graph 제목, 미리보기, 설명
 ```
