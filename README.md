@@ -21,7 +21,7 @@ Code referenced : [https://codepen.io/nightcl4w/pen/dEjreJ](https://codepen.io/n
 <br/>
 
 2. 사이트 인증 : 메타태그 index.html <head>에 넣기   
-```
+```html
 '<meta name="naver-site-verification" content="0f0f336b28a202e787105c4d2f350b9afb7682c9" />'
 ```   
 <br/>
@@ -40,7 +40,7 @@ Sitemap: https://ewhainfo.netlify.app/sitemap.xml
 <br/>
 
 5. Open Graph 제목, 미리보기, 설명
-```
+```html
  <meta property="og:title" content="이화여대 입시 링크">
  <meta property="og:image" content="miribogi.png">
  <meta property="og:description" content="이화여자대학교 입시를 위한 사이트로 연결해드립니다. (이화여대 입학처, 이화그린 입시카페,  자료모음 블로그)">
